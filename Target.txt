@@ -2,3 +2,5 @@ Target untuk masa depan
 -Belajar Laravel
 -Belajar PHP
 -Belajar Javascript
+-Belajar Flutter atau Android Studio
+-Belajar Unity
