@@ -1,2 +1,3 @@
 # Target-Masa-Depan
-berisi poin-poin yang saya ingin lakukan kedepannya
+
+berisi apa saja yang ingin saya lakukan kedepannya
