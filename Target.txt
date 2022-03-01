@@ -4,3 +4,5 @@ Target untuk masa depan
 -Belajar Javascript
 -Belajar Flutter atau Android Studio
 -Belajar Unity
+-Belajar React
+-Belajar Next.js
