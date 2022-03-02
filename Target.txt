@@ -6,3 +6,4 @@ Target untuk masa depan
 -Belajar Unity
 -Belajar React
 -Belajar Next.js
+-Belajar Chakra.ui
